@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug

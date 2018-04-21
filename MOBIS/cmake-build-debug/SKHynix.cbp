@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SKHynix"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SKHynix">
+				<Option output="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/SKHynix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 SKHynix"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SKHynix/fast">
+				<Option output="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/SKHynix" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 SKHynix/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/100!.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/2Array.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/ArrayDeque.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/ArrayQueue.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/BinarySearchTree.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Bits.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/CircuarQueue.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/CircuarQueue1.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/DFSBFS.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Dec2Hex.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/DoubleLinkedList.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/DoubleLinkedList1.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Factorial.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Fibonacci.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/FunctionPointer.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/GCD.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Hanoi.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/LinkedList.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/LinkedList1.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/LinkedQueue.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/MAXMUL.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Mergesort.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Permutation.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Practice.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/PriorityQueue.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Queue.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/SelectSort.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Sorting.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Stack.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Stringexample.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/Tree.c">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/test.cpp">
+			<Option target="SKHynix"/>
+		</Unit>
+		<Unit filename="/Users/myeong/Desktop/명수현/취업/SKHynix/MOBIS/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

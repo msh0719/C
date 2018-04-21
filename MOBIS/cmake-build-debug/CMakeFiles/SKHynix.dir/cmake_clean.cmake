@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/SKHynix.dir/BinarySearchTree.c.o"
+  "CMakeFiles/SKHynix.dir/DoubleLinkedList.c.o"
+  "CMakeFiles/SKHynix.dir/Bits.c.o"
+  "CMakeFiles/SKHynix.dir/DFSBFS.c.o"
+  "CMakeFiles/SKHynix.dir/Sorting.c.o"
+  "CMakeFiles/SKHynix.dir/LinkedList.c.o"
+  "CMakeFiles/SKHynix.dir/Practice.c.o"
+  "CMakeFiles/SKHynix.dir/FunctionPointer.c.o"
+  "CMakeFiles/SKHynix.dir/Factorial.c.o"
+  "CMakeFiles/SKHynix.dir/MAXMUL.c.o"
+  "CMakeFiles/SKHynix.dir/Queue.c.o"
+  "CMakeFiles/SKHynix.dir/Stack.c.o"
+  "CMakeFiles/SKHynix.dir/LinkedList1.c.o"
+  "CMakeFiles/SKHynix.dir/CircuarQueue.c.o"
+  "CMakeFiles/SKHynix.dir/Permutation.c.o"
+  "CMakeFiles/SKHynix.dir/PriorityQueue.c.o"
+  "CMakeFiles/SKHynix.dir/DoubleLinkedList1.c.o"
+  "CMakeFiles/SKHynix.dir/Tree.c.o"
+  "CMakeFiles/SKHynix.dir/SelectSort.c.o"
+  "CMakeFiles/SKHynix.dir/Fibonacci.c.o"
+  "CMakeFiles/SKHynix.dir/Mergesort.c.o"
+  "CMakeFiles/SKHynix.dir/ArrayQueue.c.o"
+  "CMakeFiles/SKHynix.dir/CircuarQueue1.c.o"
+  "CMakeFiles/SKHynix.dir/Hanoi.c.o"
+  "CMakeFiles/SKHynix.dir/ArrayDeque.c.o"
+  "CMakeFiles/SKHynix.dir/LinkedQueue.c.o"
+  "CMakeFiles/SKHynix.dir/Stringexample.c.o"
+  "CMakeFiles/SKHynix.dir/2Array.c.o"
+  "CMakeFiles/SKHynix.dir/GCD.c.o"
+  "CMakeFiles/SKHynix.dir/Dec2Hex.c.o"
+  "CMakeFiles/SKHynix.dir/100!.c.o"
+  "CMakeFiles/SKHynix.dir/test.cpp.o"
+  "SKHynix.pdb"
+  "SKHynix"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/SKHynix.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
